@@ -78,3 +78,7 @@ Enhanced Bias Mitigation: Implement more sophisticated bias mitigation strategie
 User Interface Improvement: Develop a graphical user interface (GUI) for better usability.
 
 Scalability: Optimize the code for scalability, allowing the application to efficiently process a large number of PDF files.
+
+
+Demo Video Link -
+https://drive.google.com/file/d/1PtQnYv2FKnRhNnjODbgkk40qHf8-bwLF/view?usp=drive_link
